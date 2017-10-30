@@ -1,0 +1,1 @@
+expectedResult = 3;
